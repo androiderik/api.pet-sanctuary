@@ -6,7 +6,8 @@
         "outDir": "dist",
         "sourceMap": true,
         "noImplicitAny": true,
-        "strictNullChecks": true
+        "strictNullChecks": true,
+        "strictPropertyInitialization": true
     },
     "include": ["src/**/*", "index.ts"],
 }
